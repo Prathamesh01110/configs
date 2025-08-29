@@ -40,6 +40,8 @@ Alternatively, you can download the **customized version** of the Sirius Theme p
 ## Preview
 Here is a preview of the customized Sirius theme:
 
+![Sirius Theme Preview](public/image1.png)
+![Sirius Theme Preview](public/image2.png)
 ![Sirius Theme Preview](public/image.png)
 
 ## Notes
